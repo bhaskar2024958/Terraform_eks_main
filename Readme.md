@@ -33,7 +33,7 @@ sudo apt update && sudo apt install terraform
 
 ### Step 7: Clone Terraform-EKS Repo on VM
 ```bash
-git clone https://github.com/terraform-aws-modules/terraform-aws-eks.git
+git clone https://github.com/bhaskar2024958/Terraform_eks_main
 ```
 
 ### Step 8: Initialize Terraform and Run Plan
