@@ -1,6 +1,7 @@
 # Stack Name
 variable "cluster_name" {
   type = string
+  default = "javaexpress"
 }
 
 # Worker Node instance size
